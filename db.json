@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "valor": 1,
+      "destino": "2",
+      "data": "2022-10-14T11:32:08.476Z",
+      "id": 2
+    },
+    {
+      "valor": 22,
+      "destino": "0222",
+      "data": "2022-10-14T11:32:34.246Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
